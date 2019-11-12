@@ -15,7 +15,9 @@ list some very useful and cool website
 - [Pexels](https://www.pexels.com/) <br>
 所有支持下载的图片你都可以自由使用，免费用于商业用途！
 
-- []()
+- [wallpaperwide](http://wallpaperswide.com/)<br>
+
+  一个壁纸网站，种类很多，壁纸不是非常的多，但够用了。重点是，该网站的壁纸无水印，且可以任意选择壁纸的尺寸，尺寸规则种类非常多。
 
 
 ## 2. 工具类网站
