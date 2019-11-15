@@ -19,6 +19,10 @@ list some very useful and cool website
 
   一个壁纸网站，种类很多，壁纸不是非常的多，但够用了。重点是，该网站的壁纸无水印，且可以任意选择壁纸的尺寸，尺寸规则种类非常多。
 
+- [remixicon](https://remixicon.com/) **图标库**<br>
+
+  一个图标素材网站，提供多种尺寸，格式下载，也支持前端引用。github上有其repo。
+  
 
 ## 2. 工具类网站
 
