@@ -49,7 +49,7 @@ list some very useful and cool website ) (**持续更新中**)
 <img src=".\img\333.png" style="zoom: 67%;" />
 
 - [百度脑图](https://naotu.baidu.com/)
- 
+
   在线绘制思维导图的百度系应用网站，虽然是网页上操作画思维图，但使用体验非常好，极力推荐。思维导图文件直接云端保存，因此只要有一个可以上网的浏览器局可以进行编辑和查看，以及导出。导出支持多种格式，也可以导入，最重要的是这一切都免费。
 
 <img src=".\img\444.png" style="zoom: 67%;" />
@@ -59,3 +59,12 @@ list some very useful and cool website ) (**持续更新中**)
 - [Linux命令大全](https://man.linuxde.net/) **（推荐）**<br>
 
 在线检索linux命令的网站，提供对命令参数的说明以及使用样例，还有常用命令的分类整理。
+
+- [Boost C++ 库]( https://www.kancloud.cn/wizardforcel/the-boost-cpp-libraries/121987 )
+
+很全的C++学习知识库
+
+- [实验楼-做实验，学编程]( https://www.shiyanlou.com/ )
+
+编程学习入门网站
+
