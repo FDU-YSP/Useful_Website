@@ -1,5 +1,5 @@
 # Useful_Website 一些优秀的网站总结
-list some very useful and cool website
+list some very useful and cool website ) (**持续更新中**)
 
 ## 目录
 
@@ -53,3 +53,9 @@ list some very useful and cool website
   在线绘制思维导图的百度系应用网站，虽然是网页上操作画思维图，但使用体验非常好，极力推荐。思维导图文件直接云端保存，因此只要有一个可以上网的浏览器局可以进行编辑和查看，以及导出。导出支持多种格式，也可以导入，最重要的是这一切都免费。
 
 <img src=".\img\444.png" style="zoom: 67%;" />
+
+## 3. 技术类
+
+- [Linux命令大全](https://man.linuxde.net/) **（推荐）**<br>
+
+在线检索linux命令的网站，提供对命令参数的说明以及使用样例，还有常用命令的分类整理。
