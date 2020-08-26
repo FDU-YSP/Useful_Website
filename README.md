@@ -59,6 +59,11 @@ list some very useful and cool website ) (**持续更新中**)
 
 ​        一个免费的工具网站，聚合了图片工具、PDF工具、开发者工具，简单易用。
 
+- [网页版时许图绘制](https://www.websequencediagrams.com/)
+
+  在线绘制时许图，左侧写markdown，右侧就是效果图，简单易用。
+
+
 ## 3. 技术类
 
 - [Linux命令大全](https://man.linuxde.net/) **（推荐）**<br>
